@@ -1,5 +1,5 @@
 import unittest
-from news_scraper import NewsScraper
+from main import NewsScraper
 
 class TestNewsScraper(unittest.TestCase):
     def test_scrape_news(self):
